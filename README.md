@@ -6,6 +6,7 @@ Version: 2021.1.18
 ##Dataset Info:
 Rows: 11770
 Columns: 12
+<pre>
  #   Column         Non-Null Count  Dtype  
 ---  ------         --------------  -----  
  0   Quarter        11770 non-null  object
@@ -21,6 +22,7 @@ Columns: 12
  10  Margin         11770 non-null  float64
  11  Quantity sold  11770 non-null  int64  
 dtypes: float64(2), int64(4), object(6)
+</pre>
 ##Image1: Month wise Quantity Sold and Sales Revenue
 This chart shows month wise Total Quantity Sold and Total Sales Revenue.
 ![BO Features dashboard](https://user-images.githubusercontent.com/114546267/194100708-f3784cf2-5f96-45d7-af9e-d2396d1fdab2.png)
