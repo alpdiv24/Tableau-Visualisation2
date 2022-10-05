@@ -8,7 +8,7 @@ Rows: 11770
 Columns: 12
  #   Column         Non-Null Count  Dtype  
 ---  ------         --------------  -----  
- 0   Quarter        11770 non-null  object 
+ 0   Quarter        11770 non-null  object
  1   Month          11770 non-null  int64  
  2   Week           11770 non-null  int64  
  3   Sales revenue  11770 non-null  float64
