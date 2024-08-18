@@ -39,7 +39,7 @@ This chart shows Sales Revenue for different cities.
 This chart shows Sales revenue by quarters for different lines.
 ![Sales Revenue by Quarter for Lines](https://user-images.githubusercontent.com/114546267/194210203-d0149636-223a-40b4-8e4a-779e27d63d5a.png)
 
-##Image4: Rop 10 Categories. 
+##Image4: Top 10 Categories. 
 
 This chart shows top 10 categories by sales.
 ![Top 10 Category Sales](https://user-images.githubusercontent.com/114546267/194210256-65a2b481-1864-47d8-aad4-dd44fde92138.png)
